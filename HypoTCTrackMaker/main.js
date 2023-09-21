@@ -715,15 +715,15 @@ var HypoTrack = (function(){
             categoryToPlace = 9;
 		else if(key === '9')
             categoryToPlace = 10;
-		else if(key === '-')
+		else if(key === 'c')
             categoryToPlace = 11;
-		else if(key === '=')
+		else if(key === 'v')
             categoryToPlace = 12;
-		else if(key === '\')
+		else if(key === 'z')
             categoryToPlace = 13;
-		else if(key === '/')
+		else if(key === 'm')
             categoryToPlace = 14;
-		else if(key === '.')
+		else if(key === 'k')
             categoryToPlace = 15;
         else if(key === 'u')
             categoryToPlace = 16;
