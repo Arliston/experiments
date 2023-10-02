@@ -607,7 +607,7 @@ var HypoTrack = (function(){
             deleteTrackPoints = deletePointsCheckbox.checked;
         }
 
-        let altColorCheckbox = checkbox('alt-color-checkbox', 'Use Alternate Colors (2022 Wikipedia)', buttons);
+        let altColorCheckbox = checkbox('alt-color-checkbox', 'Use Alternate Colors (HHW Colors)', buttons);
         altColorCheckbox.onclick = function(){
             useAltColors = altColorCheckbox.checked;
         };
@@ -707,23 +707,23 @@ var HypoTrack = (function(){
             categoryToPlace = 5;
         else if(key === '5')
             categoryToPlace = 6;
-		else if(key === '6')
+	else if(key === '6')
             categoryToPlace = 7;
-		else if(key === '7')
+	else if(key === '7')
             categoryToPlace = 8;
-		else if(key === '8')
+	else if(key === '8')
             categoryToPlace = 9;
-		else if(key === '9')
+	else if(key === '9')
             categoryToPlace = 10;
-		else if(key === '0')
+	else if(key === '0')
             categoryToPlace = 11;
-		else if(key === 'y')
+	else if(key === 'y')
             categoryToPlace = 12;
-		else if(key === 'm')
+	else if(key === 'm')
             categoryToPlace = 13;
-		else if(key === 'i')
+	else if(key === 'i')
             categoryToPlace = 14;
-		else if(key === 'r')
+	else if(key === 'r')
             categoryToPlace = 15;
         else if(key === 'u')
             categoryToPlace = 16;
