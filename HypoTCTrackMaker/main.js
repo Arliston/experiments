@@ -550,7 +550,7 @@ var HypoTrack = (function(){
 	    'Category 7': 8,
 	    'Category 8': 9,
 	    'Category 9': 10,
-	    'Category 0': 11,
+	    'Category 10': 11,
 	    'Hypercane': 12,
 	    'Megacane': 13,
 	    'Infinite Storm': 14,
