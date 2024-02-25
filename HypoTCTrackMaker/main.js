@@ -5,7 +5,7 @@ var HypoTrack = (function(){
 
     const WIDTH = 1000;
     const HEIGHT = 500;
-    const COLORS_ALT = ['#01B3FF','#06FF01','#FFF501','#FFB801','#FF5C01','#FF1F00','#FF017B','#FF34BA','#EC10FF','#C852FF','#8863F1','#939DFF','#E993FF','#FC879C','#00CC14','#D4A500','#c0c0c0'];
+    const COLORS_ALT = ['#00FCFF','#31FF00','#FFE200','#FEC46F','#FF9700','#FF0001','#FF009B','#FF60C1','#FBB1DE','#D697FF','#C263FF','#AB27FF','#501EFF','#2079FF','#3185C8','#277893','#c0c0c0'];
     const COLORS = ['#5ebaff','#00faf4','#ffffcc','#ffe775','#ffc140','#ff8f20','#ff6060','#8b0000','#cc0033','#cc0066','#9b30ff','#f9a7b0','#ff99ff','#ffcccc','#00cc33','#ffff00','#c0c0c0'];
 
     let loadedMapImg,
